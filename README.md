@@ -68,17 +68,9 @@ This project demonstrates how to leverage **Salesforce Einstein AI** and **Promp
 
 ## **Getting Started**  
 
-1. **Clone this repository**:  
-   ```bash
-   git clone https://github.com/your-username/Welcome-Email-Automation.git
-   ```  
-2. **Deploy Salesforce Components**: Import objects, relationships, and templates into your Salesforce instance.  
-3. **Enable Einstein AI**: Activate AI and Sales Email features in your Salesforce org.  
-4. **Test the Workflow**: Create sample guest reservations and preview the email output.  
+1. **Deploy Salesforce Components**: Import objects, relationships, and templates into your Salesforce instance.  
+2. **Enable Einstein AI**: Activate AI and Sales Email features in your Salesforce org.  
+3. **Test the Workflow**: Create sample guest reservations and preview the email output.  
 
 ---
 
-## **Contributing**  
-Contributions are welcome! Please submit a pull request with enhancements or bug fixes.  
-
----
